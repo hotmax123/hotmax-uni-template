@@ -53,5 +53,5 @@ export default Vue.extend({
 
 <style lang="scss">
 /*每个页面公共css */
-@import 'components/hdcss/common.scss';
+@import 'components/hmcss/common.scss';
 </style>
